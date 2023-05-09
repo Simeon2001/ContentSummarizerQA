@@ -1,0 +1,15 @@
+Deoxyribonucleic acid (DNA) is the cell’s hereditary material and contains instructions for development, growth and reproduction. DNA is passed from generation to generation in humans and many other organisms. The same DNA is located in nearly every cell of the human body. DNA is mostly located within chromosomes in the nucleus, but some DNA is also found in the mitochondria. Chromosomes consist of DNA coiled around histones (alkaline proteins). If extended, the DNA would measure approximately 2 meters. For more information on chromosomes, see the section “What are Chromosomes?”
+
+DNA is made up of four chemical (nitrogen) bases:
+
+Purines
+adenine
+guanine
+
+Pyrimidines
+cytosine
+thymine
+
+The side-by-side arrangement of bases in a particular sequence, unique to each human (or other organism), spells out the exact instructions needed to create that person and also gives the person his or her unique phenotype or traits (distinguishing characteristics).
+
+Genes, the basic physical and functional units of heredity, are composed of DNA sequences. Genes serve as the blueprint for the production of proteins. Only about 2% of the entire human genome (complete set of genetic information for a person) consists of genes. For details on the human genome, see section “What is a Genome?”
